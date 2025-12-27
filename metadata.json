@@ -1,0 +1,5 @@
+{
+  "name": "AdminPro Dashboard",
+  "description": "A comprehensive administration panel for managing users, reservations, and payment records with real-time search, data export, and AI-powered insights.",
+  "requestFramePermissions": []
+}
